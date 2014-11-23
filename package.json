@@ -1,6 +1,6 @@
 {
   "author": "Yuki Akiyama <you2197901 [at] gmail.com>",
-  "name": "ripple-promise",
+  "name": "ripple-lib-promise",
   "version": "0.0.1",
   "private": false,
   "dependencies": {

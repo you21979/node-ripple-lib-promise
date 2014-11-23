@@ -7,7 +7,7 @@ install
 -------
 
 ```
-npm install ripple-promise
+npm install ripple-lib-promise
 ```
 
 

@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/you21979/node-ripple-promise.git"
+    "url": "git://github.com/you21979/node-ripple-lib-promise.git"
   },
   "keywords": [
     "ripple",
@@ -26,6 +26,6 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/you21979/node-ripple-promise/issues"
+    "url": "https://github.com/you21979/node-ripple-lib-promise/issues"
   }
 }

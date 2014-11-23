@@ -4,9 +4,9 @@
   "version": "0.0.1",
   "private": false,
   "dependencies": {
-    "bluebird":"",
-    "async":"",
-    "ripple-lib":""
+    "bluebird":"2.3.x",
+    "async":"0.8.x",
+    "ripple-lib":"0.9.x"
   },
   "readmeFilename": "README.md",
   "description": "ripple-lib for promise",

@@ -1,12 +1,12 @@
 {
   "author": "Yuki Akiyama <you2197901 [at] gmail.com>",
   "name": "ripple-lib-promise",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "private": false,
   "dependencies": {
-    "bluebird":"2.3.x",
-    "async":"0.8.x",
-    "ripple-lib":"0.9.x"
+    "bluebird":"2.6.x",
+    "lodash":"2.4.x",
+    "ripple-lib":"0.10.x"
   },
   "readmeFilename": "README.md",
   "description": "ripple-lib for promise",

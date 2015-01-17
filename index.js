@@ -5,3 +5,4 @@ exports.orderbook = require('./lib/orderbook');
 exports.ripple = require('ripple-lib');
 exports.Promise = require('bluebird');
 exports._ = require('lodash');
+exports.createConnect = exports.conn.createConnect
